@@ -5,7 +5,7 @@ jadi studi kasusnya adalah film
 
 ## Sumber data
 
-[Berikut linknya](kaggle.com)
+[Berikut linknya](https://github.com/ferdyfebriyanto/UAS-BigData-2022/blob/main/film.csv)
 
 ## Link video presentasi
 [Berikut linknya](youtube.com)
