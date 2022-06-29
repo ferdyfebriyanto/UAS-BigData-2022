@@ -34,7 +34,7 @@ Dataset didapatkan dari website Kaggle.com Berikut adalah [link dataset](https:/
 
 3. Output studi kasus 3
 
-![image](https://user-images.githubusercontent.com/47923906/176545515-35494e55-cba2-468d-940c-bf14905c7747.png)
+![image](https://user-images.githubusercontent.com/47923906/176546423-999c312e-ecab-4ad6-a155-97d0fb5e252f.png)
 
 
 
