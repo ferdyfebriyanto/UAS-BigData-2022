@@ -24,6 +24,19 @@ Dataset didapatkan dari website Kaggle.com Berikut adalah [link dataset](https:/
 
 ## Screenshot hasil
 
+1. Output studi kasus 1
+
+![image](https://user-images.githubusercontent.com/47923906/176545913-9f850fc4-87d4-4027-a2aa-d209f6c5aed3.png)
+
+2. Output studi kasus 2
+
+![image](https://user-images.githubusercontent.com/47923906/176546025-1ad8cb68-1174-4788-9c40-4ad0c7fd599d.png)
+
+3. Output studi kasus 3
+
+![image](https://user-images.githubusercontent.com/47923906/176545515-35494e55-cba2-468d-940c-bf14905c7747.png)
+
+
 
 
 
