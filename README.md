@@ -1,7 +1,7 @@
 # UAS-BigData-2022
 
 ## Studi kasus
-jadi studi kasusnya adalah
+jadi studi kasusnya adalah film
 
 ## Sumber data
 
