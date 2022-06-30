@@ -20,7 +20,7 @@ Dataset didapatkan dari website Kaggle.com Berikut adalah [link dataset](https:/
 ![image](https://user-images.githubusercontent.com/47923906/176544740-6c531400-3d9a-4271-9c66-9c980ee5bf5f.png)
 
 ## Link video presentasi
-[Berikut linknya](youtube.com)
+Penjelasan terdapat pada [link youtube](https://youtu.be/BON4LO2oxDM) berikut
 
 ## Screenshot hasil
 
